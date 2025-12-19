@@ -1,11 +1,8 @@
-# OverTheWire – Natas Writeups (Level 0–8)
+# OverTheWire – Natas Writeups 
 
 This repository documents my solutions for the **Natas web security wargame** on OverTheWire.
 Natas focuses on identifying and exploiting common **web vulnerabilities** using source code analysis,
 HTTP manipulation, encoding/decoding flaws, and logic errors.
-
-## Levels Completed
-- ✅ Natas 0 → Natas 8
 
 ## Skills Demonstrated
 - HTTP headers manipulation
