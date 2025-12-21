@@ -53,3 +53,5 @@ Although the password is hidden inside an HTML comment, any user can view the pa
 ---
 
 ## 🖼️ Screenshot 
+<img width="788" height="221" alt="image" src="https://github.com/user-attachments/assets/c0eb8769-ef3c-44d5-9ecb-1037620d3f3d" /> <br>
+*Password redacted for ethical reasons*
