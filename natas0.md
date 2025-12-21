@@ -1,4 +1,4 @@
-# 🧪 Natas X
+# 🧪 Natas 0
 
 ## 🎯 Objective
 Obtain the password for **Natas 1**.
