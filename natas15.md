@@ -39,7 +39,7 @@ Although it doesn't reveal the password directly, the response can be used as an
 
 ## 💻 Key Payload / Command
 ```bash
-natas16" AND SUBSTRING(password,<position>,1)="<char>" #
+natas16" AND BINARY SUBSTRING(password,<position>,1)="<char>" #
 ```
 
 ---
